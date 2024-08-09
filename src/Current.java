@@ -4,8 +4,8 @@ public class Current {
     public static void main(String[] args) {
         Data current = new Data() {
             @Override
-            public String toString() {
-                return super.toString();
+            public int hashCode() {
+                return super.hashCode();
             }
         };
         System.out.println(current);
