@@ -1,6 +1,4 @@
-import javax.xml.crypto.Data;
-import java.time.LocalDateTime;
-import java.time.*;
+import java.time.LocalTime;
 
 public class Current {
     public static void main(String[] args) {
