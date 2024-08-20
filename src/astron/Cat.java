@@ -1,2 +1,7 @@
-package astron;public class Cat {
+package astron;
+
+public class Cat extends Astronaut {
+    public String getInfo(){
+        return "Кот";
+    }
 }

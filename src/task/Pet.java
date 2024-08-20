@@ -1,2 +1,7 @@
-package task;public class Pet {
+package task;
+
+public class Pet {
+    public void printInfo(){
+        System.out.println("Я домашний питомец.");
+    }
 }
