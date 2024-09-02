@@ -1,4 +1,4 @@
-package task19.level1;
+package level19.level1;
 
 public class Student {
     private String name;
